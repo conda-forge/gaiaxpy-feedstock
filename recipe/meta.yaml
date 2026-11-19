@@ -51,7 +51,7 @@ about:
   summary: GaiaXPy is a Python library to facilitate handling Gaia BP/RP spectra as distributed from the Gaia archive.
   description: {{ (readme.group(0) if readme else "") | tojson }}
   license: 'BSD-3-Clause'
-  license_file: LICENSE
+  license_file: LICENCE
 
 extra:
   recipe-maintainers:
