@@ -241,6 +241,7 @@ Feedstock Maintainers
 
 * [@cgobat](https://github.com/cgobat/)
 * [@druzm](https://github.com/druzm/)
+* [@fdeangeli](https://github.com/fdeangeli/)
 * [@mwittgen](https://github.com/mwittgen/)
 * [@roceb](https://github.com/roceb/)
 
